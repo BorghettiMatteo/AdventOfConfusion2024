@@ -1,6 +1,6 @@
 # AdventOfConfusion2024
 
-Everyday a new struggle (fuck julia)
+Everyday a new struggle
 
 | day | lang | stars |
 | --- | ---- | ----- |
